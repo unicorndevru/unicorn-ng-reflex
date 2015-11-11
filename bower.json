@@ -1,5 +1,7 @@
 {
   "name": "unicorn-ng-reflex",
+  "version": "0.1.0",
+  "main": "dist/unicorn-ng-reflex.js",
   "description": "Easy working with async forms, buttons, etc",
   "authors": [
     "unicorndev team"

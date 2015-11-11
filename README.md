@@ -3,6 +3,15 @@
 A module to relief pain with async forms, buttons, etc.
 
 
+### Install
+```
+  npm install unicorn-ng-reflex --save
+```
+or
+```
+  bower install unicorn-ng-reflex --save
+```
+
 ### How to use
 
 Forms:
