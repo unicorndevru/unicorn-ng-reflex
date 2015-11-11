@@ -1,0 +1,29 @@
+{
+  "name": "unicorn-ng-reflex",
+  "description": "Easy working with async forms, buttons, etc",
+  "authors": [
+    "unicorndev team"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "event",
+    "handler",
+    "forms",
+    "buttons",
+    "angular",
+    "reflex",
+    "async"
+  ],
+  "homepage": "https://github.com/unicorndevru/unicorn-ng-reflex",
+  "moduleType": [],
+  "ignore": [
+    "gulpfile.js",
+    "gulp",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}

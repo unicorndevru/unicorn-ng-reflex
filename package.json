@@ -1,0 +1,36 @@
+{
+  "name": "unicorn-ng-reflex",
+  "version": "0.1.0",
+  "description": "Easy working with async forms, buttons, etc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicorndevru/unicorn-ng-reflex.git"
+  },
+  "keywords": [
+    "event",
+    "handler",
+    "forms",
+    "buttons",
+    "angular",
+    "reflex",
+    "async"
+  ],
+  "author": "unicorndev team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unicorndevru/unicorn-ng-reflex/issues"
+  },
+  "homepage": "https://github.com/unicorndevru/unicorn-ng-reflex#readme",
+  "dependencies": {
+    "babel": "^6.0.15",
+    "babel-core": "^6.1.4",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.4",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-angular-filesort": "^1.1.1",
+    "gulp-babel": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "webpack": "^1.12.4"
+  }
+}
