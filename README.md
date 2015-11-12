@@ -69,4 +69,4 @@ $scope.checkSomething = function(){
 Just return promise from handler passed to one of directives: `reflex-click`, `reflex-submit`, `reflex-blur`, `reflex-keyup`, script will block button until promise is pending and broadcast events:
 `unicornReflexStart` when action just happen and `unicornReflexDone` when promise is resolved or rejected.
 
-Don't forget to wrap your elements in `<react>`
+Don't forget to wrap your elements in `<reflex>`
